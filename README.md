@@ -1,1 +1,2 @@
 # omp
+Oliwer Mielcarek
